@@ -1,6 +1,6 @@
 # HKEX Short Update
 
-"HKEX Short Update" is a Python program for detecting new Securities Eligible for Short Selling from [HKEX](https://www.hkex.com.hk/?sc_lang=zh-HK).
+"HKEX Short Update" is a Python program for detecting new securities eligible for short selling from [HKEX](https://www.hkex.com.hk/?sc_lang=zh-HK).
 
 ## Installation
 
